@@ -1,7 +1,7 @@
 # UserManagmentWithValidation
 
 #Technologies Used
-SpringBoot
-Lombok
-SpringValidation
-Maven
+##SpringBoot
+##Lombok
+##SpringValidation
+##Maven
